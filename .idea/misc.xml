@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.9 (Movie-Recommender-System-Using-Machine-Learning-master)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (Movie-Recommender-System-Using-Machine-Learning-master)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (movie-recommendation)" project-jdk-type="Python SDK" />
 </project>
